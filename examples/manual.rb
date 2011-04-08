@@ -24,6 +24,6 @@ Prawn::Document.generate "autoprint.pdf" do |pdf|
   js_root.data.add("some_random_label_that_can_be_anything", obj)
 
   # finally add some real content to the page so something gets printed.
-  pdf.text "Javascript Prototype", :at => [150,720], :size => 32
+  pdf.draw_text "Javascript Prototype", :at => [150,720], :size => 32
 
 end

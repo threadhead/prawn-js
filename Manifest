@@ -1,0 +1,12 @@
+CHANGELOG
+MIT-LICENSE
+README.markdown
+Rakefile
+examples/autoprint.rb
+examples/doc_close.rb
+examples/doc_open.rb
+examples/doc_save.rb
+examples/manual.rb
+lib/prawn/js.rb
+prawn-js.gemspec
+Manifest
